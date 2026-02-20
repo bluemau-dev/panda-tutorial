@@ -1,11 +1,19 @@
 import numpy as np
 import pandas as pd
 
-dates = pd.date_range("20260219", periods=4)
-df = pd.DataFrame(np.random.randn(4,4), index=dates, columns=list("ABCD"))
+mango = [5,3,2,4]
+apple = [4,3,7,2]
+banana = [8,10,11,2]
 
-print(df)
-#print(df.head)
-#print(df.tail)
-#print(df.index)
-#print(df.columns)
+myvar = pd.Series(mango)
+myvar2 = pd.Series(apple)
+myvar3 = pd.Series(banana)
+
+data = {
+    "Mango": myvar,
+    "Apple": myvar2,
+    "Banana": myvar3,
+}
+
+df = pd.DataFrame(data)
+print(df.loc[[0,1,2]])
