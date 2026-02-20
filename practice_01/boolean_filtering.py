@@ -11,5 +11,5 @@ data = {
 
 df = pd.DataFrame(data)
 mask = df["My Money"] > 25.00
-df[mask]
-print(df[mask    ])
+filtered = df[mask]
+print(filtered)
