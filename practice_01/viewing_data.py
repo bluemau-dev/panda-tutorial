@@ -16,4 +16,9 @@ data = {
 }
 
 df = pd.DataFrame(data)
+
+# Print the Series "Mango"
+print(df["Mango"])
+
+# Print Columns 0,1,2 from DataFrame
 print(df.loc[[0,1,2]])

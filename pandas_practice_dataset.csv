@@ -1,0 +1,101 @@
+order_id,customer_id,order_date,product_category,quantity,unit_price,total_price,payment_method,region
+1,1008,2024-11-23,Books,1,14.75,14.75,Debit Card,South
+2,1013,2024-02-22,Electronics,5,26.52,132.6,Credit Card,North
+3,1000,2024-04-21,Sports,2,106.02,212.04,Debit Card,West
+4,1000,2024-04-22,Books,4,121.96,487.84,Cash,East
+5,1010,2024-05-22,Electronics,2,50.91,101.82,Credit Card,West
+6,1019,2024-02-19,Clothing,3,171.02,513.06,Credit Card,West
+7,1012,2024-10-01,Electronics,1,194.89,194.89,PayPal,East
+8,1001,2024-10-22,Books,2,143.87,287.74,PayPal,North
+9,1014,2024-04-29,Clothing,1,82.22,82.22,Debit Card,East
+10,1020,2024-06-30,Electronics,2,137.33,274.66,Debit Card,South
+11,1020,2024-03-24,Sports,4,82.1,328.4,Debit Card,East
+12,1010,2024-01-29,Home,2,166.14,332.28,PayPal,North
+13,1010,2024-04-18,Books,5,176.51,882.55,Cash,West
+14,1004,2024-11-25,Books,4,37.15,148.6,PayPal,West
+15,1004,2024-10-25,Sports,4,78.78,315.12,Cash,North
+16,1005,2024-01-25,Home,1,39.04,39.04,Credit Card,West
+17,1016,2024-07-14,Clothing,5,199.26,996.3,Credit Card,North
+18,1020,2024-12-15,Clothing,5,152.67,763.35,Credit Card,East
+19,1008,2024-08-10,Sports,2,96.21,192.42,Debit Card,North
+20,1016,2024-11-16,Sports,3,169.92,509.76,Debit Card,South
+21,1016,2024-07-10,Electronics,2,112.48,224.96,PayPal,West
+22,1009,2024-01-10,Books,1,186.53,186.53,Credit Card,South
+23,1015,2024-10-17,Electronics,1,26.27,26.27,Debit Card,South
+24,1005,2024-12-03,Clothing,4,189.9,759.6,Cash,South
+25,1012,2024-10-03,Clothing,2,145.46,290.92,Cash,West
+26,1010,2024-03-02,Electronics,2,52.69,105.38,Debit Card,South
+27,1001,2024-01-04,Books,1,144.49,144.49,Credit Card,North
+28,1008,2024-06-18,Home,1,107.69,107.69,Debit Card,South
+29,1015,2024-10-19,Home,5,99.81,499.05,Debit Card,North
+30,1013,2024-02-19,Home,4,77.32,309.28,Credit Card,North
+31,1003,2024-02-01,Books,4,148.36,593.44,Debit Card,South
+32,1005,2024-10-01,Clothing,4,36.63,146.52,Cash,South
+33,1017,2024-02-08,Electronics,4,163.52,654.08,Credit Card,North
+34,1015,2024-02-17,Home,2,41.6,83.2,Debit Card,West
+35,1012,2024-01-31,Clothing,2,82.0,164.0,Cash,East
+36,1015,2024-08-04,Books,5,135.76,678.8,Debit Card,East
+37,1017,2024-04-21,Electronics,1,120.04,120.04,PayPal,North
+38,1016,2024-01-26,Books,5,100.59,502.95,Credit Card,North
+39,1007,2024-04-05,Home,1,123.06,123.06,Credit Card,South
+40,1002,2024-10-23,Home,5,17.55,87.75,PayPal,East
+41,1012,2024-04-14,Books,3,55.35,166.05,PayPal,West
+42,1019,2024-06-10,Sports,1,11.77,11.77,Credit Card,North
+43,1004,2024-10-02,Clothing,2,106.12,212.24,Credit Card,South
+44,1017,2024-07-08,Clothing,3,39.97,119.91,Credit Card,East
+45,1004,2024-12-05,Clothing,1,188.4,188.4,Credit Card,North
+46,1019,2024-10-10,Books,2,61.75,123.5,PayPal,South
+47,1008,2024-12-17,Electronics,3,106.03,318.09,Credit Card,West
+48,1004,2024-05-21,Clothing,1,10.67,10.67,Debit Card,West
+49,1003,2024-10-09,Electronics,4,116.57,466.28,Debit Card,North
+50,1013,2024-07-08,Books,5,114.98,574.9,Credit Card,East
+51,1006,2024-07-05,Books,1,180.8,180.8,Credit Card,East
+52,1004,2024-10-13,Books,4,195.03,780.12,Debit Card,South
+53,1010,2024-07-30,Home,1,44.08,44.08,Debit Card,East
+54,1001,2024-03-22,Home,1,82.68,82.68,Debit Card,South
+55,1007,2024-08-23,Books,3,67.99,203.97,Credit Card,South
+56,1002,2024-07-23,Clothing,3,62.93,188.79,PayPal,West
+57,1000,2024-12-13,Electronics,5,72.92,364.6,PayPal,South
+58,1019,2024-10-24,Home,3,17.27,51.81,PayPal,East
+59,1003,2024-08-11,Home,5,197.0,985.0,Debit Card,East
+60,1017,2024-01-23,Books,4,10.32,41.28,PayPal,West
+61,1003,2024-02-05,Clothing,3,128.4,385.2,PayPal,West
+62,1017,2024-06-16,Books,4,142.47,569.88,Debit Card,West
+63,1005,2024-12-06,Sports,4,138.69,554.76,PayPal,West
+64,1006,2024-10-07,Home,1,67.74,67.74,PayPal,West
+65,1016,2024-08-14,Home,4,138.37,553.48,Debit Card,North
+66,1019,2024-05-25,Clothing,5,136.13,680.65,Credit Card,South
+67,1006,2024-12-10,Books,3,52.68,158.04,Credit Card,North
+68,1002,2024-05-05,Home,4,126.14,504.56,Cash,South
+69,1007,2024-12-22,Books,4,103.93,415.72,Credit Card,North
+70,1016,2024-08-05,Home,2,43.42,86.84,Credit Card,South
+71,1014,2024-03-03,Sports,4,35.33,141.32,PayPal,West
+72,1017,2024-11-09,Home,5,91.08,455.4,Debit Card,West
+73,1020,2024-08-18,Clothing,3,152.84,458.52,Cash,South
+74,1009,2024-05-20,Books,4,24.72,98.88,PayPal,East
+75,1004,2024-06-12,Books,5,25.31,126.55,Cash,South
+76,1013,2024-12-27,Clothing,2,22.2,44.4,Cash,West
+77,1012,2024-02-01,Sports,2,168.25,336.5,Credit Card,West
+78,1009,2024-09-01,Home,1,189.12,189.12,Cash,South
+79,1015,2024-09-06,Electronics,2,61.86,123.72,Cash,East
+80,1014,2024-12-08,Books,4,147.59,590.36,Credit Card,West
+81,1002,2024-10-30,Home,5,135.97,679.85,Debit Card,West
+82,1010,2024-04-03,Books,1,59.43,59.43,Cash,East
+83,1013,2024-06-21,Clothing,4,62.87,251.48,Credit Card,West
+84,1011,2024-01-10,Books,5,19.9,99.5,Credit Card,North
+85,1000,2024-01-16,Sports,2,47.88,95.76,Debit Card,South
+86,1018,2024-03-05,Books,4,137.2,548.8,Cash,East
+87,1003,2024-07-07,Books,2,125.12,250.24,PayPal,North
+88,1018,2024-10-23,Home,1,186.49,186.49,Cash,South
+89,1020,2024-02-08,Books,5,141.22,706.1,Credit Card,East
+90,1018,2024-12-16,Electronics,5,163.05,815.25,PayPal,West
+91,1020,2024-12-04,Clothing,3,23.1,69.3,Credit Card,West
+92,1011,2024-09-07,Home,1,92.37,92.37,Debit Card,West
+93,1008,2024-03-31,Sports,5,193.44,967.2,Cash,West
+94,1007,2024-08-11,Electronics,5,61.0,305.0,PayPal,West
+95,1012,2024-05-04,Clothing,4,118.27,473.08,Credit Card,West
+96,1011,2024-06-15,Clothing,2,102.63,205.26,PayPal,East
+97,1016,2024-11-01,Books,3,115.6,346.8,Credit Card,South
+98,1007,2024-07-27,Home,4,115.48,461.92,Cash,West
+99,1012,2024-01-09,Books,1,65.9,65.9,PayPal,East
+100,1013,2024-08-30,Sports,5,110.88,554.4,PayPal,East
